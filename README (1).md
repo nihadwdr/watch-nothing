@@ -2,47 +2,41 @@
 
 
 
-# [Project Name] 🎯
+# Watching Nothing 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Vallyettan
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Muhammed Nihad - [Duxford College]
+- Member 2: Muhammed Shadhin - [Duxford College]
+
 
 ### Project Description
-[2-3 lines about what your project does]
+A YouTube-like video platform that never actually loads, turning endless buffering into a fun experience.
+Users can browse videos and interact only through Like, Skip, and Pause.
+A simple satirical project designed to humorously recreate the frustration of slow internet.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Slow internet and endless buffering can make online video platforms frustrating and annoying for users.
+This project highlights that problem through a satirical video platform where videos never finish loading.
+Users can only Like, Skip, or Pause, turning a common internet problem into an interactive experience.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+This project turns the frustration of slow internet and endless buffering into a fun, interactive experience.
+It provides a YouTube-like platform where users can browse and interact using Like, Skip, and Pause without actual video playback.
+The solution uses satire and interaction to creatively highlight the problem of poor loading speeds.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- HTML
+- CSS
+- JAVA SCRIPT
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
 
 ### Project Documentation
 For Software:
@@ -57,41 +51,6 @@ For Software:
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
